@@ -1,4 +1,4 @@
-# Spring-Boot-JPA
+# Spring-Boot-JPA-Derby
 
 An example of JPA using Apache Derby in Spring Boot.
 
