@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 03 12:01:04 NPT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0179-d083-b787-000002067cf8 
+on database directory memory:/home/siza/Desktop/Spring-Boot-Service-Components-master/6d36be92-b897-49a7-9cd7-01f480998346 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/home/siza/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=/home/siza/Desktop/Spring-Boot-Service-Components-master
+os.name=Linux
+os.arch=amd64
+os.version=5.11.0-16-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
